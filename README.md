@@ -43,24 +43,25 @@ This project demonstrates **computer vision, gesture recognition, and real-time 
 - comtypes  
 
 ---
+## Preview
+
+<img width="1022" height="456" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d189dbbc-8836-43ed-abaa-a5f45f0b0a22" />
+<img width="529" height="263" alt="image" src="https://github.com/user-attachments/assets/c8c7efc7-37ca-455b-81e4-bae7b403521e" />
+<img width="675" height="246" alt="image" src="https://github.com/user-attachments/assets/9873bd9a-7dfa-4a95-a4e3-989860d028ee" />
+
+
+
+
 
 ## Installation
 
 1. **Clone the Repository**:
-
-```bash
-git clone https://github.com/YourUsername/Gesture-Based-Media-Control.git
-cd Gesture-Based-Media-Control
-
 2. **Install Python**:
 
 - Make sure you have **Python 3.11+** installed.  
 - You can download it from [Python Official Site](https://www.python.org/downloads/).
 
 3. **Create a Virtual Environment** (optional but recommended):
-
-```bash
-python -m venv venv
 
 Activate the environment:
 
