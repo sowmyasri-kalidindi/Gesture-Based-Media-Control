@@ -46,10 +46,10 @@ This project demonstrates **computer vision, gesture recognition, and real-time 
 ## Preview
 
 <img width="1022" height="456" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/d189dbbc-8836-43ed-abaa-a5f45f0b0a22" />
-<img width="529" height="263" alt="image" src="https://github.com/user-attachments/assets/c8c7efc7-37ca-455b-81e4-bae7b403521e" /><img width="675" height="246" alt="image" src="https://github.com/user-attachments/assets/9873bd9a-7dfa-4a95-a4e3-989860d028ee" />
-
-
-
+<img width="1022" height="456" alt="image" src="https://github.com/user-attachments/assets/c8c7efc7-37ca-455b-81e4-bae7b403521e" />
+<img width="1022" height="456" alt="image" src="https://github.com/user-attachments/assets/9873bd9a-7dfa-4a95-a4e3-989860d028ee" />
+<img width="1022" height="456" alt="image" src="https://github.com/user-attachments/assets/667d8d2f-65df-4b72-a005-efb14e39f0d7" />
+<img width="1022" height="456" alt="image" src="https://github.com/user-attachments/assets/b8cf66a6-7735-4c62-8fb4-be57cfd4779a" />
 
 
 ## Installation
@@ -62,7 +62,7 @@ This project demonstrates **computer vision, gesture recognition, and real-time 
 
 3. **Create a Virtual Environment** (optional but recommended):
 
-Activate the environment:
+##Activate the environment:
 
 Windows: venv\Scripts\activate
 
@@ -83,7 +83,7 @@ comtypes
 
 Note: Make sure your webcam is connected and accessible.
 
-How to Run
+##How to Run
 
 Launch the main Python script:
 
