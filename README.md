@@ -62,60 +62,52 @@ This project demonstrates **computer vision, gesture recognition, and real-time 
 
 3. **Create a Virtual Environment** (optional but recommended):
 
-##Activate the environment:
+## ⚡ Activate the Environment
 
-Windows: venv\Scripts\activate
+- **Windows**: `venv\Scripts\activate`  
+- **Mac/Linux**: `source venv/bin/activate`
 
-Mac/Linux: source venv/bin/activate
+---
 
-Install Project Dependencies:
+## 📦 Install Project Dependencies
 
-pip install -r requirements.txt
+- `pip install -r requirements.txt`  
+- **Dependencies included in requirements.txt**:  
+  - `opencv-python`  
+  - `mediapipe`  
+  - `numpy`  
+  - `pyautogui`  
+  - `pycaw`  
+  - `comtypes`  
 
-Dependencies Included in requirements.txt
-opencv-python
-mediapipe
-numpy
-pyautogui
-pycaw
-comtypes
+> ⚠️ Make sure your webcam is connected and accessible.
+
+---
+
+## ▶️ How to Run
+
+- Run main code
+
+## Perform Gestures to Control Media
+
+| Gesture                        | Action                  |
+|--------------------------------|------------------------|
+| 4 fingers extended             | ▶️ Play                |
+| 0 fingers extended             | ⏸ Pause               |
+| Thumb Up                        | ⏭ Next Track          |
+| Thumb Down                      | ⏮ Previous Track      |
+| Move wrist left/right           | ⏪ Seek Backward / ⏩ Forward |
+| 1–3 fingers extended            | ⚡ Adjust Playback Speed |
+| Distance between thumb & index  | 🔊 Volume Control      |
 
 
 Note: Make sure your webcam is connected and accessible.
 
-##How to Run
-
-Launch the main Python script:
-
-python main.py
-
-
-Perform gestures to control media:
-
-Gesture	Action
-4 fingers extended	Play
-0 fingers extended	Pause
-Thumb Up	Next Track
-Thumb Down	Previous Track
-Move wrist left/right	Seek Backward/Forward
-1–3 fingers extended	Adjust playback speed
-Distance between thumb & index	Volume control
-
-Press Q to exit the program.
-
-Project Structure
-Gesture-Based-Media-Control/
-│
-├── main.py          # Main Python script with gesture detection
-├── requirements.txt # Python libraries required
-└── README.md        # Project documentation
-
 Applications
 
-Touch-free media control
+• Touch-free media control
+• Accessibility support for physically challenged users
+• Smart Home media systems
+• Human-Computer Interaction (HCI) and AI projects
 
-Accessibility support for physically challenged users
 
-Smart Home media systems
-
-Human-Computer Interaction (HCI) and AI projects
