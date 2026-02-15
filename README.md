@@ -105,9 +105,9 @@ Note: Make sure your webcam is connected and accessible.
 
 Applications
 
-• Touch-free media control
-• Accessibility support for physically challenged users
-• Smart Home media systems
+• Touch-free media control<br>
+• Accessibility support for physically challenged users<br>
+• Smart Home media systems<br>
 • Human-Computer Interaction (HCI) and AI projects
 
 
